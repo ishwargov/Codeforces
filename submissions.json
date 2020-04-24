@@ -1129,6 +1129,21 @@
     ],
     "timestamp": "Jan/08/2021 11:20"
   },
+  "CF77889938": {
+    "contest_id": 29,
+    "language": "GNU C++17",
+    "path": "codeforces\\29\\A.cpp",
+    "problem_index": "A",
+    "problem_name": "Spit Problem",
+    "problem_url": "https://codeforces.com/contest/29/problem/A",
+    "submission_id": "CF77889938",
+    "submission_url": "https://codeforces.com/contest/29/submission/77889938",
+    "tags": [
+      "brute force",
+      "*1000"
+    ],
+    "timestamp": "Apr/24/2020 13:18"
+  },
   "CF78093597": {
     "contest_id": 426,
     "language": "GNU C++17",

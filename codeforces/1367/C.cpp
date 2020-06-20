@@ -44,7 +44,9 @@ void solve(){
             //cout<<"2 ";
         }
         if((d==2*k+1)||(i==n-1&&d>k)){
-            d=k;
+            if(d==2*k+1)
+                i = i-k;
+            d=0;
             ans++;
             //cout<<"3 ";
         }

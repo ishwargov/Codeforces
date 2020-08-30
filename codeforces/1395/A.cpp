@@ -20,9 +20,17 @@ void solve(){
     ll n=r+g+b+w;
     ll k = r%2 + g%2 + b%2 + w%2;
     ll c = (r==0) + (g==0) + (b==0);
-    if(k==0||k==1||(k==4&&c==0)||(k==3&&c==0)){
+    if(k==0||k==1){
         cout<<"Yes";
         return;
+    }
+    if(c==0){
+        r--,g--,b--,w+=3;
+        k = r%2 + g%2 + b%2 + w%2;
+        if(k==1||k==0){ 
+        cout<<"Yes";
+        return;
+        }
     }
     cout<<"No";
 

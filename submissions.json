@@ -1129,6 +1129,21 @@
     ],
     "timestamp": "Jan/08/2021 11:20"
   },
+  "CF92526446": {
+    "contest_id": 716,
+    "language": "GNU C++14",
+    "path": "codeforces\\716\\A.cpp",
+    "problem_index": "A",
+    "problem_name": "Crazy Computer",
+    "problem_url": "https://codeforces.com/contest/716/problem/A",
+    "submission_id": "CF92526446",
+    "submission_url": "https://codeforces.com/contest/716/submission/92526446",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Sep/12/2020 00:32"
+  },
   "CF92557400": {
     "contest_id": 266,
     "language": "GNU C++14",

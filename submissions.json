@@ -1129,6 +1129,21 @@
     ],
     "timestamp": "Jan/08/2021 11:20"
   },
+  "CF92561892": {
+    "contest_id": 271,
+    "language": "GNU C++14",
+    "path": "codeforces\\271\\A.cpp",
+    "problem_index": "A",
+    "problem_name": "Beautiful Year",
+    "problem_url": "https://codeforces.com/contest/271/problem/A",
+    "submission_id": "CF92561892",
+    "submission_url": "https://codeforces.com/contest/271/submission/92561892",
+    "tags": [
+      "brute force",
+      "*800"
+    ],
+    "timestamp": "Sep/12/2020 14:35"
+  },
   "CF92574441": {
     "contest_id": 275,
     "language": "GNU C++14",

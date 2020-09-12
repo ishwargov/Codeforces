@@ -1129,6 +1129,21 @@
     ],
     "timestamp": "Jan/08/2021 11:20"
   },
+  "CF92574441": {
+    "contest_id": 275,
+    "language": "GNU C++14",
+    "path": "codeforces\\275\\A.cpp",
+    "problem_index": "A",
+    "problem_name": "Lights Out",
+    "problem_url": "https://codeforces.com/contest/275/problem/A",
+    "submission_id": "CF92574441",
+    "submission_url": "https://codeforces.com/contest/275/submission/92574441",
+    "tags": [
+      "implementation",
+      "*900"
+    ],
+    "timestamp": "Sep/12/2020 17:23"
+  },
   "CF92658703": {
     "contest_id": 1406,
     "language": "GNU C++14",

@@ -21,7 +21,7 @@ void solve(){
         ll inp;cin>>inp;
         A.pb(inp);
     }
-    if (all_of(A.begin(), A.end(), [&](ll a) { return a == x; }))
+    if (all_of(A.begin(), A.end(), [&](int a) { return a == x; }))
         cout << 0 ;
     else if (accumulate(A.begin(), A.end(), 0) == n * x || find(A.begin(), A.end(), x) != A.end())
         cout << 1 ;

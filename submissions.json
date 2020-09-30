@@ -1129,6 +1129,21 @@
     ],
     "timestamp": "Jan/08/2021 11:20"
   },
+  "CF94258238": {
+    "contest_id": 337,
+    "language": "GNU C++14",
+    "path": "codeforces\\337\\A.cpp",
+    "problem_index": "A",
+    "problem_name": "Puzzles",
+    "problem_url": "https://codeforces.com/contest/337/problem/A",
+    "submission_id": "CF94258238",
+    "submission_url": "https://codeforces.com/contest/337/submission/94258238",
+    "tags": [
+      "greedy",
+      "*900"
+    ],
+    "timestamp": "Sep/30/2020 09:24"
+  },
   "CF94573636": {
     "contest_id": 118,
     "language": "GNU C++14",

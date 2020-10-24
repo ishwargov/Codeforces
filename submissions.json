@@ -1129,6 +1129,23 @@
     ],
     "timestamp": "Jan/08/2021 11:20"
   },
+  "CF96510715": {
+    "contest_id": 193,
+    "language": "GNU C++14",
+    "path": "codeforces\\193\\A.cpp",
+    "problem_index": "A",
+    "problem_name": "Cutting Figure",
+    "problem_url": "https://codeforces.com/contest/193/problem/A",
+    "submission_id": "CF96510715",
+    "submission_url": "https://codeforces.com/contest/193/submission/96510715",
+    "tags": [
+      "constructive algorithms",
+      "graphs",
+      "trees",
+      "*1700"
+    ],
+    "timestamp": "Oct/24/2020 14:35"
+  },
   "CF96753715": {
     "contest_id": 456,
     "language": "GNU C++14",

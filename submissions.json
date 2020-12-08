@@ -1,4 +1,20 @@
 {
+  "CF100666579": {
+    "contest_id": 220,
+    "language": "GNU C++14",
+    "path": "codeforces\\220\\A.cpp",
+    "problem_index": "A",
+    "problem_name": "Little Elephant and Problem",
+    "problem_url": "https://codeforces.com/contest/220/problem/A",
+    "submission_id": "CF100666579",
+    "submission_url": "https://codeforces.com/contest/220/submission/100666579",
+    "tags": [
+      "implementation",
+      "sortings",
+      "*1300"
+    ],
+    "timestamp": "Dec/08/2020 10:29"
+  },
   "CF100669063": {
     "contest_id": 478,
     "language": "GNU C++14",

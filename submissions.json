@@ -1,4 +1,21 @@
 {
+  "CF101174877": {
+    "contest_id": 332,
+    "language": "GNU C++14",
+    "path": "codeforces\\332\\B.cpp",
+    "problem_index": "B",
+    "problem_name": "Maximum Absurdity",
+    "problem_url": "https://codeforces.com/contest/332/problem/B",
+    "submission_id": "CF101174877",
+    "submission_url": "https://codeforces.com/contest/332/submission/101174877",
+    "tags": [
+      "data structures",
+      "dp",
+      "implementation",
+      "*1500"
+    ],
+    "timestamp": "Dec/14/2020 19:15"
+  },
   "CF101229854": {
     "contest_id": 219,
     "language": "GNU C++14",

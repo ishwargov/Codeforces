@@ -1,4 +1,22 @@
 {
+  "CF102885605": {
+    "contest_id": 1466,
+    "language": "GNU C++17",
+    "path": "codeforces\\1466\\D.cpp",
+    "problem_index": "D",
+    "problem_name": "13th Labour of Heracles",
+    "problem_url": "https://codeforces.com/contest/1466/problem/D",
+    "submission_id": "CF102885605",
+    "submission_url": "https://codeforces.com/contest/1466/submission/102885605",
+    "tags": [
+      "data structures",
+      "greedy",
+      "sortings",
+      "trees",
+      "*1500"
+    ],
+    "timestamp": "Dec/31/2020 11:34"
+  },
   "CF102947599": {
     "contest_id": 493,
     "language": "GNU C++17",

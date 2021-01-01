@@ -32,17 +32,16 @@ void solve(){
     cin>>r;
     ll mid,lo=0,hi=1e14;
     while(lo<hi){
-        mid =lo + (hi-lo)/2;
-        //cout<<lo<<" "<<hi<<" "<<f(mid)<<'\n';
+        //cout<<lo<<" "<<hi<<"\n";
+        mid =(lo+hi+1)/2;
         if(f(mid)){
-            lo = mid+1;
+            lo = mid;
         }
         else{
             hi = mid-1;
         }
     }   
-    ll ans = (f(lo))?(lo):(lo-1);
-    cout<<ans;
+    cout<<lo;
 }
 
 int main(){   

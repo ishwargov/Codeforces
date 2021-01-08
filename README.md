@@ -12,4 +12,4 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-{submission_placeholder}
+1 | [B - Friends and Presents](https://codeforces.com/contest/483/problem/B) | [GNU C++17](./codeforces/483/B.cpp) | `binary search` `math` `*1800` | Jan/08/2021 11:20 | 

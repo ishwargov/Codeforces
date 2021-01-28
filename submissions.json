@@ -1665,6 +1665,24 @@
     ],
     "timestamp": "Jan/26/2021 20:40"
   },
+  "CF105660332": {
+    "contest_id": 439,
+    "language": "GNU C++17",
+    "path": "codeforces\\439\\C.cpp",
+    "problem_index": "C",
+    "problem_name": "Devu and Partitioning of the Array",
+    "problem_url": "https://codeforces.com/contest/439/problem/C",
+    "submission_id": "CF105660332",
+    "submission_url": "https://codeforces.com/contest/439/submission/105660332",
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "implementation",
+      "number theory",
+      "*1700"
+    ],
+    "timestamp": "Jan/28/2021 16:51"
+  },
   "CF77337708": {
     "contest_id": 144,
     "language": "GNU C++17",

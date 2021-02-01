@@ -1784,6 +1784,22 @@
     ],
     "timestamp": "Jan/31/2021 12:15"
   },
+  "CF106168149": {
+    "contest_id": 466,
+    "language": "GNU C++17",
+    "path": "codeforces\\466\\B.cpp",
+    "problem_index": "B",
+    "problem_name": "Wonder Room",
+    "problem_url": "https://codeforces.com/contest/466/problem/B",
+    "submission_id": "CF106168149",
+    "submission_url": "https://codeforces.com/contest/466/submission/106168149",
+    "tags": [
+      "brute force",
+      "math",
+      "*2000"
+    ],
+    "timestamp": "Feb/01/2021 13:41"
+  },
   "CF106216733": {
     "contest_id": 460,
     "language": "GNU C++17",

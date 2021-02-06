@@ -1784,6 +1784,23 @@
     ],
     "timestamp": "Jan/31/2021 12:15"
   },
+  "CF106694908": {
+    "contest_id": 463,
+    "language": "GNU C++17",
+    "path": "codeforces\\463\\C.cpp",
+    "problem_index": "C",
+    "problem_name": "Gargari and Bishops",
+    "problem_url": "https://codeforces.com/contest/463/problem/C",
+    "submission_id": "CF106694908",
+    "submission_url": "https://codeforces.com/contest/463/submission/106694908",
+    "tags": [
+      "greedy",
+      "hashing",
+      "implementation",
+      "*1900"
+    ],
+    "timestamp": "Feb/06/2021 23:28"
+  },
   "CF77337708": {
     "contest_id": 144,
     "language": "GNU C++17",

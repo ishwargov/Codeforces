@@ -2011,6 +2011,22 @@
     ],
     "timestamp": "Feb/09/2021 19:10"
   },
+  "CF107181853": {
+    "contest_id": 1,
+    "language": "GNU C++17",
+    "path": "codeforces\\1\\B.cpp",
+    "problem_index": "B",
+    "problem_name": "Spreadsheet",
+    "problem_url": "https://codeforces.com/contest/1/problem/B",
+    "submission_id": "CF107181853",
+    "submission_url": "https://codeforces.com/contest/1/submission/107181853",
+    "tags": [
+      "implementation",
+      "math",
+      "*1600"
+    ],
+    "timestamp": "Feb/12/2021 17:21"
+  },
   "CF107280775": {
     "contest_id": 448,
     "language": "GNU C++17",

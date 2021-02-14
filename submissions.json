@@ -2011,6 +2011,23 @@
     ],
     "timestamp": "Feb/09/2021 19:10"
   },
+  "CF107314231": {
+    "contest_id": 236,
+    "language": "GNU C++17",
+    "path": "codeforces\\236\\A.cpp",
+    "problem_index": "A",
+    "problem_name": "Boy or Girl",
+    "problem_url": "https://codeforces.com/contest/236/problem/A",
+    "submission_id": "CF107314231",
+    "submission_url": "https://codeforces.com/contest/236/submission/107314231",
+    "tags": [
+      "brute force",
+      "implementation",
+      "strings",
+      "*800"
+    ],
+    "timestamp": "Feb/14/2021 09:51"
+  },
   "CF107400884": {
     "contest_id": 231,
     "language": "GNU C++17",

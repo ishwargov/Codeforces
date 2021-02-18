@@ -2235,6 +2235,22 @@
     ],
     "timestamp": "Feb/17/2021 15:20"
   },
+  "CF107837873": {
+    "contest_id": 1486,
+    "language": "GNU C++17",
+    "path": "codeforces\\1486\\B.cpp",
+    "problem_index": "B",
+    "problem_name": "Eastern Exhibition",
+    "problem_url": "https://codeforces.com/contest/1486/problem/B",
+    "submission_id": "CF107837873",
+    "submission_url": "https://codeforces.com/contest/1486/submission/107837873",
+    "tags": [
+      "geometry",
+      "shortest paths",
+      "sortings"
+    ],
+    "timestamp": "Feb/18/2021 21:25"
+  },
   "CF107948788": {
     "contest_id": 1486,
     "language": "GNU C++17",

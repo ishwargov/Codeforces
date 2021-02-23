@@ -2327,6 +2327,21 @@
     ],
     "timestamp": "Feb/20/2021 19:07"
   },
+  "CF108228044": {
+    "contest_id": 214,
+    "language": "GNU C++17",
+    "path": "codeforces\\214\\A.cpp",
+    "problem_index": "A",
+    "problem_name": "System of Equations",
+    "problem_url": "https://codeforces.com/contest/214/problem/A",
+    "submission_id": "CF108228044",
+    "submission_url": "https://codeforces.com/contest/214/submission/108228044",
+    "tags": [
+      "brute force",
+      "*800"
+    ],
+    "timestamp": "Feb/23/2021 11:56"
+  },
   "CF108405335": {
     "contest_id": 1492,
     "language": "GNU C++17",

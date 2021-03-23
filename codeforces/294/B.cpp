@@ -1,60 +1,38 @@
-/* XxSupremeLordxX Ishwar Govind */
-#include <bits/stdc++.h>
+#include <stdio.h>
+#include <algorithm>
+#include <vector>
+#define INF 1000000000
+ 
 using namespace std;
-#define M 1000000007
-#define PI acos(-1)
-#define ll long long int
-#define fi first    
-#define se second
-#define pb push_back
-#define mp make_pair
-#define ub upper_bound
-#define lb lower_bound
-#define rep(i,k,n) for(ll i=(k);i<=(n);i++)
-#define repi(i,k,n) for(ll i=(k);i>=(n);i--)
-clock_t begtime = clock();
-#define timetaken() cout << "\n\nTime elapsed: " << (float)(clock() - begtime)/1000.0
-
-void solve(){
-    ll n,cnt[2]={0};
-    cin>>n;
-    vector <ll> bk[2];
-    vector <ll> s[2];
-    rep(i,0,n-1){
-        ll x,y; 
-        cin>>x>>y;
-        cnt[x-1]++;
-        bk[x-1].pb(y);
+ 
+vector<int> v[3];
+ 
+int main()
+{
+    int n,sum,i,a,b,sz1,sz2,j,k,tot,ans;
+    scanf("%d",&n);
+    sum=0;
+    for (i=0;i<n;i++)
+    {
+        scanf("%d%d",&a,&b);
+        v[a].push_back(b);
+        sum+=b;
     }
-    ll ans = cnt[0]+cnt[1]*2;
-    s[0].resize(cnt[0]+1,0);
-    s[1].resize(cnt[1]+1,0);
-    sort(bk[0].begin(),bk[0].end());
-    sort(bk[1].begin(),bk[1].end());
-    for(ll i=0;i<cnt[0];i++){
-        s[0][i+1] = s[0][i] + bk[0][i];
-    }
-    for(ll i=0;i<cnt[1];i++){
-        s[1][i+1] = s[1][i] + bk[1][i];
-    }
-
-    for(ll i=0;i<=cnt[0];i++){
-        for(ll j=0;j<=cnt[1];j++){
-            ll ver = (cnt[0]-i)+(cnt[1]-j)*2;
-            ll hz = s[0][i] + s[1][j];
-            //cout<<i<<" "<<j<<" "<<hz<<" "<<ver<<"\n";
-            if(hz<=ver){
-                ans = min(ans,ver);
-            }
+    sort(v[1].begin(),v[1].end());
+    sort(v[2].begin(),v[2].end());
+    sz1=v[1].size();
+    sz2=v[2].size();
+    ans=INF;
+    for (i=0;i<=sz1;i++)
+    {
+        for (j=0;j<=sz2;j++)
+        {
+            tot=sum;
+            for (k=sz1-1;k>sz1-1-i;k--) tot-=v[1][k];
+            for (k=sz2-1;k>sz2-1-j;k--) tot-=v[2][k];
+            if (tot<=i+j*2) ans=min(ans,i+j*2);
         }
     }
-    cout<<ans;
-
-}
-
-int main(){   
-    ios::sync_with_stdio(0);
-	cin.tie(0);
-    solve();
+    printf("%d\n",ans);
     return 0;
-} 
+}

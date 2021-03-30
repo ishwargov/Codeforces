@@ -12,12 +12,13 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-259 | [D - Dima and Hares](https://codeforces.com/contest/358/problem/D) | [GNU C++17](./codeforces/358/D.cpp) | `dp` `greedy` `*1800` | Apr/27/2021 10:40 | 
-258 | [B - Greenhouse Effect](https://codeforces.com/contest/269/problem/B) | [GNU C++17](./codeforces/269/B.cpp) | `dp` `*1700` | Apr/26/2021 19:14 | 
-257 | [B - Pipeline](https://codeforces.com/contest/287/problem/B) | [GNU C++17](./codeforces/287/B.cpp) | `binary search` `math` `*1700` | Apr/22/2021 12:11 | 
-256 | [B - Zero Tree](https://codeforces.com/contest/274/problem/B) | [GNU C++17](./codeforces/274/B.cpp) | `dfs and similar` `dp` `greedy` `trees` `*1800` | Apr/14/2021 15:06 | 
-255 | [B - DMCA](https://codeforces.com/contest/1505/problem/B) | [GNU C++17](./codeforces/1505/B.cpp) | `implementation` `number theory` `*1600` | Apr/14/2021 14:56 | 
-254 | [A - Is it rated - 2](https://codeforces.com/contest/1505/problem/A) | [GNU C++17](./codeforces/1505/A.cpp) | `implementation` `interactive` `*900` | Apr/11/2021 23:24 | 
+260 | [D - Dima and Hares](https://codeforces.com/contest/358/problem/D) | [GNU C++17](./codeforces/358/D.cpp) | `dp` `greedy` `*1800` | Apr/27/2021 10:40 | 
+259 | [B - Greenhouse Effect](https://codeforces.com/contest/269/problem/B) | [GNU C++17](./codeforces/269/B.cpp) | `dp` `*1700` | Apr/26/2021 19:14 | 
+258 | [B - Pipeline](https://codeforces.com/contest/287/problem/B) | [GNU C++17](./codeforces/287/B.cpp) | `binary search` `math` `*1700` | Apr/22/2021 12:11 | 
+257 | [B - Zero Tree](https://codeforces.com/contest/274/problem/B) | [GNU C++17](./codeforces/274/B.cpp) | `dfs and similar` `dp` `greedy` `trees` `*1800` | Apr/14/2021 15:06 | 
+256 | [B - DMCA](https://codeforces.com/contest/1505/problem/B) | [GNU C++17](./codeforces/1505/B.cpp) | `implementation` `number theory` `*1600` | Apr/14/2021 14:56 | 
+255 | [A - Is it rated - 2](https://codeforces.com/contest/1505/problem/A) | [GNU C++17](./codeforces/1505/A.cpp) | `implementation` `interactive` `*900` | Apr/11/2021 23:24 | 
+254 | [B - Box Fitting](https://codeforces.com/contest/1498/problem/B) | [GNU C++17](./codeforces/1498/B.cpp) | `binary search` `bitmasks` `data structures` `greedy` `*1300` | Mar/30/2021 15:08 | 
 253 | [C - Ilya and Matrix](https://codeforces.com/contest/313/problem/C) | [GNU C++17](./codeforces/313/C.cpp) | `constructive algorithms` `greedy` `implementation` `sortings` `*1400` | Mar/15/2021 09:54 | 
 252 | [A - DZY Loves Sequences](https://codeforces.com/contest/446/problem/A) | [GNU C++17](./codeforces/446/A.cpp) | `dp` `implementation` `two pointers` `*1600` | Mar/13/2021 22:14 | 
 251 | [C - Almost Arithmetical Progression](https://codeforces.com/contest/255/problem/C) | [GNU C++17](./codeforces/255/C.cpp) | `brute force` `dp` `*1500` | Mar/12/2021 21:17 | 

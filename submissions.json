@@ -2793,6 +2793,22 @@
     ],
     "timestamp": "Mar/15/2021 09:54"
   },
+  "CF111451964": {
+    "contest_id": 1498,
+    "language": "GNU C++17",
+    "path": "codeforces\\1498\\A.cpp",
+    "problem_index": "A",
+    "problem_name": "GCD Sum",
+    "problem_url": "https://codeforces.com/contest/1498/problem/A",
+    "submission_id": "CF111451964",
+    "submission_url": "https://codeforces.com/contest/1498/submission/111451964",
+    "tags": [
+      "brute force",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Mar/30/2021 14:06"
+  },
   "CF111456888": {
     "contest_id": 1498,
     "language": "GNU C++17",

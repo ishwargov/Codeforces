@@ -2793,6 +2793,22 @@
     ],
     "timestamp": "Mar/15/2021 09:54"
   },
+  "CF112993823": {
+    "contest_id": 1505,
+    "language": "GNU C++17",
+    "path": "codeforces\\1505\\B.cpp",
+    "problem_index": "B",
+    "problem_name": "DMCA",
+    "problem_url": "https://codeforces.com/contest/1505/problem/B",
+    "submission_id": "CF112993823",
+    "submission_url": "https://codeforces.com/contest/1505/submission/112993823",
+    "tags": [
+      "implementation",
+      "number theory",
+      "*1600"
+    ],
+    "timestamp": "Apr/14/2021 14:56"
+  },
   "CF112994533": {
     "contest_id": 274,
     "language": "GNU C++17",

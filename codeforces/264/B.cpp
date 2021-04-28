@@ -15,37 +15,53 @@ using namespace std;
 clock_t begtime = clock();
 #define timetaken() cout << "\n\nTime elapsed: " << (float)(clock() - begtime)/1000.0
 
-const int MAXN = (int)1e5+1;
-ll dp[MAXN];
-void solve(){
-    ll n;
-    cin>>n;
-    vector <ll> a(n);
-    rep(i,0,n-1){ cin>>a[i];if(a[i]!=1) dp[a[i]] = 1;}
-    if(n==1&&a[0]==1){
-        cout<<1;
-        return;
+const int N = (int)1e5+1;
+ 
+int a[N];
+int f[N];
+int g[N];
+int b[N];
+ 
+void solve() {
+ 
+    int n;
+    scanf("%d", &n);
+    for (int i = 0; i < n; ++i) {
+        scanf("%d", a + i);
     }
-    sort(a.begin(),a.end());
-    rep(i,0,n-1){
-        for(ll j=2;j*j<=a[i];j++){
-            if(a[i]%j==0){
-                //cout<<j<<" "<<dp[j]<<"\n";
-                //cout<<a[i]/j<<" "<<dp[a[i]/j]<<"\n";
-                dp[a[i]] = max(dp[a[i]],dp[j]+1);
-                dp[a[i]] = max(dp[a[i]],dp[a[i]/j]+1);
+ 
+    for (int i = 2; i < N; ++i)
+        if (!b[i]) {
+            b[i] = i;
+            for (int j = i + i; j < N; j += i)
+                b[j] = i;
+        }
+ 
+    int ans = 1;
+    for (int i = 0; i < n; ++i) {
+        if (a[i] == 1) {
+            f[1] = 1;
+        } else {
+            g[i] = 1;
+            int x = a[i];
+            while (x != 1) {
+                g[i] = max(f[ b[x] ] + 1, g[i]);
+                x /= b[x];
             }
-        } 
-        for(ll j=2;j*j<=a[i];j++){
-            if(a[i]%j==0){
-                dp[j] = max(dp[j],dp[a[i]]);
-                dp[a[i]/j] = max(dp[a[i]/j],dp[a[i]]);
+ 
+            ans = max(ans, g[i]);
+ 
+            x = a[i];
+            while (x != 1) {
+                f[ b[x] ] = max(f[ b[x] ], g[i]);
+                x /= b[x];
             }
-        } 
-        //cout<<"$"<<a[i]<<" "<<dp[a[i]]<<"\n";
+        }
     }
-    cout<<*max_element(dp,dp+(int)1e5+1);
+ 
+    cout << ans << endl;
 }
+ 
 
 int main(){   
     ios::sync_with_stdio(0);

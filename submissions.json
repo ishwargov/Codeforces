@@ -3198,6 +3198,22 @@
     ],
     "timestamp": "Jun/03/2021 10:59"
   },
+  "CF118489754": {
+    "contest_id": 1535,
+    "language": "GNU C++17",
+    "path": "codeforces\\1535\\A.cpp",
+    "problem_index": "A",
+    "problem_name": "Fair Playoff",
+    "problem_url": "https://codeforces.com/contest/1535/problem/A",
+    "submission_id": "CF118489754",
+    "submission_url": "https://codeforces.com/contest/1535/submission/118489754",
+    "tags": [
+      "brute force",
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Jun/05/2021 14:48"
+  },
   "CF118491049": {
     "contest_id": 1535,
     "language": "GNU C++17",

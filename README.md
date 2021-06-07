@@ -12,15 +12,16 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-284 | [D - Devu and his Brother](https://codeforces.com/contest/439/problem/D) | [GNU C++17](./codeforces/439/D.cpp) | `binary search` `sortings` `ternary search` `two pointers` `*1700` | Jun/28/2021 14:03 | 
-283 | [C - Little Alawn's Puzzle](https://codeforces.com/contest/1534/problem/C) | [GNU C++17](./codeforces/1534/C.cpp) | `combinatorics` `dp` `dsu` `graphs` `math` `*1300` | Jun/16/2021 15:35 | 
-282 | [B - Histogram Ugliness](https://codeforces.com/contest/1534/problem/B) | [GNU C++17](./codeforces/1534/B.cpp) | `greedy` `implementation` `math` `*1100` | Jun/14/2021 16:26 | 
-281 | [G - Gift Set](https://codeforces.com/contest/1538/problem/G) | [GNU C++17](./codeforces/1538/G.cpp) | `binary search` `greedy` `math` `ternary search` `*2100` | Jun/12/2021 21:41 | 
-280 | [F - Interesting Function](https://codeforces.com/contest/1538/problem/F) | [GNU C++17](./codeforces/1538/F.cpp) | `binary search` `dp` `math` `number theory` `*1500` | Jun/12/2021 20:54 | 
-279 | [D - Another Problem About Dividing Numbers](https://codeforces.com/contest/1538/problem/D) | [GNU C++17](./codeforces/1538/D.cpp) | `constructive algorithms` `math` `number theory` `*1700` | Jun/12/2021 12:37 | 
-278 | [C - Number of Pairs](https://codeforces.com/contest/1538/problem/C) | [GNU C++17](./codeforces/1538/C.cpp) | `binary search` `data structures` `math` `two pointers` `*1300` | Jun/11/2021 21:27 | 
-277 | [B - Friends and Candies](https://codeforces.com/contest/1538/problem/B) | [GNU C++17](./codeforces/1538/B.cpp) | `greedy` `math` `*800` | Jun/11/2021 21:18 | 
-276 | [A - Stone Game](https://codeforces.com/contest/1538/problem/A) | [GNU C++17](./codeforces/1538/A.cpp) | `brute force` `dp` `greedy` `*800` | Jun/11/2021 21:15 | 
+285 | [D - Devu and his Brother](https://codeforces.com/contest/439/problem/D) | [GNU C++17](./codeforces/439/D.cpp) | `binary search` `sortings` `ternary search` `two pointers` `*1700` | Jun/28/2021 14:03 | 
+284 | [C - Little Alawn's Puzzle](https://codeforces.com/contest/1534/problem/C) | [GNU C++17](./codeforces/1534/C.cpp) | `combinatorics` `dp` `dsu` `graphs` `math` `*1300` | Jun/16/2021 15:35 | 
+283 | [B - Histogram Ugliness](https://codeforces.com/contest/1534/problem/B) | [GNU C++17](./codeforces/1534/B.cpp) | `greedy` `implementation` `math` `*1100` | Jun/14/2021 16:26 | 
+282 | [G - Gift Set](https://codeforces.com/contest/1538/problem/G) | [GNU C++17](./codeforces/1538/G.cpp) | `binary search` `greedy` `math` `ternary search` `*2100` | Jun/12/2021 21:41 | 
+281 | [F - Interesting Function](https://codeforces.com/contest/1538/problem/F) | [GNU C++17](./codeforces/1538/F.cpp) | `binary search` `dp` `math` `number theory` `*1500` | Jun/12/2021 20:54 | 
+280 | [D - Another Problem About Dividing Numbers](https://codeforces.com/contest/1538/problem/D) | [GNU C++17](./codeforces/1538/D.cpp) | `constructive algorithms` `math` `number theory` `*1700` | Jun/12/2021 12:37 | 
+279 | [C - Number of Pairs](https://codeforces.com/contest/1538/problem/C) | [GNU C++17](./codeforces/1538/C.cpp) | `binary search` `data structures` `math` `two pointers` `*1300` | Jun/11/2021 21:27 | 
+278 | [B - Friends and Candies](https://codeforces.com/contest/1538/problem/B) | [GNU C++17](./codeforces/1538/B.cpp) | `greedy` `math` `*800` | Jun/11/2021 21:18 | 
+277 | [A - Stone Game](https://codeforces.com/contest/1538/problem/A) | [GNU C++17](./codeforces/1538/A.cpp) | `brute force` `dp` `greedy` `*800` | Jun/11/2021 21:15 | 
+276 | [C - Diluc and Kaeya](https://codeforces.com/contest/1536/problem/C) | [GNU C++17](./codeforces/1536/C.cpp) | `data structures` `dp` `hashing` `number theory` `*1500` | Jun/07/2021 11:42 | 
 275 | [C - Ice Cave](https://codeforces.com/contest/540/problem/C) | [GNU C++17](./codeforces/540/C.cpp) | `dfs and similar` `*2000` | Jun/03/2021 10:59 | 
 274 | [D - Pashmak and Parmida's problem](https://codeforces.com/contest/459/problem/D) | [GNU C++17](./codeforces/459/D.cpp) | `data structures` `divide and conquer` `sortings` `*1800` | Jun/02/2021 21:48 | 
 273 | [D - Pair of Numbers](https://codeforces.com/contest/359/problem/D) | [GNU C++17](./codeforces/359/D.cpp) | `binary search` `brute force` `data structures` `math` `two pointers` `*2000` | May/31/2021 11:37 | 

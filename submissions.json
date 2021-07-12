@@ -3429,6 +3429,21 @@
     ],
     "timestamp": "Jun/28/2021 14:03"
   },
+  "CF122206266": {
+    "contest_id": 1546,
+    "language": "GNU C++17",
+    "path": "codeforces\\1546\\C.cpp",
+    "problem_index": "C",
+    "problem_name": "AquaMoon and Strange Sort",
+    "problem_url": "https://codeforces.com/contest/1546/problem/C",
+    "submission_id": "CF122206266",
+    "submission_url": "https://codeforces.com/contest/1546/submission/122206266",
+    "tags": [
+      "sortings",
+      "*1500"
+    ],
+    "timestamp": "Jul/12/2021 17:32"
+  },
   "CF122233723": {
     "contest_id": 1546,
     "language": "GNU C++17",

@@ -12,9 +12,10 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-291 | [D - Count Good Substrings](https://codeforces.com/contest/451/problem/D) | [GNU C++17](./codeforces/451/D.cpp) | `math` `*2000` | Aug/02/2021 12:46 | 
-290 | [C - Mikasa](https://codeforces.com/contest/1554/problem/C) | [GNU C++17](./codeforces/1554/C.cpp) | `binary search` `bitmasks` `greedy` `implementation` `*1800` | Aug/02/2021 12:12 | 
-289 | [C - Manhattan Subarrays](https://codeforces.com/contest/1550/problem/C) | [GNU C++17](./codeforces/1550/C.cpp) | `brute force` `geometry` `greedy` `implementation` `*1700` | Jul/18/2021 22:20 | 
+292 | [D - Count Good Substrings](https://codeforces.com/contest/451/problem/D) | [GNU C++17](./codeforces/451/D.cpp) | `math` `*2000` | Aug/02/2021 12:46 | 
+291 | [C - Mikasa](https://codeforces.com/contest/1554/problem/C) | [GNU C++17](./codeforces/1554/C.cpp) | `binary search` `bitmasks` `greedy` `implementation` `*1800` | Aug/02/2021 12:12 | 
+290 | [C - Manhattan Subarrays](https://codeforces.com/contest/1550/problem/C) | [GNU C++17](./codeforces/1550/C.cpp) | `brute force` `geometry` `greedy` `implementation` `*1700` | Jul/18/2021 22:20 | 
+289 | [E - Riding in a Lift](https://codeforces.com/contest/479/problem/E) | [GNU C++17](./codeforces/479/E.cpp) | `combinatorics` `dp` `*1900` | Jul/16/2021 17:48 | 
 288 | [D - Devu and his Brother](https://codeforces.com/contest/439/problem/D) | [GNU C++17](./codeforces/439/D.cpp) | `binary search` `sortings` `ternary search` `two pointers` `*1700` | Jun/28/2021 14:03 | 
 287 | [C - Little Alawn's Puzzle](https://codeforces.com/contest/1534/problem/C) | [GNU C++17](./codeforces/1534/C.cpp) | `combinatorics` `dp` `dsu` `graphs` `math` `*1300` | Jun/16/2021 15:35 | 
 286 | [B - Histogram Ugliness](https://codeforces.com/contest/1534/problem/B) | [GNU C++17](./codeforces/1534/B.cpp) | `greedy` `implementation` `math` `*1100` | Jun/14/2021 16:26 | 

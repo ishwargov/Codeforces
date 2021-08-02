@@ -3429,6 +3429,21 @@
     ],
     "timestamp": "Jun/28/2021 14:03"
   },
+  "CF124656525": {
+    "contest_id": 451,
+    "language": "GNU C++17",
+    "path": "codeforces\\451\\D.cpp",
+    "problem_index": "D",
+    "problem_name": "Count Good Substrings",
+    "problem_url": "https://codeforces.com/contest/451/problem/D",
+    "submission_id": "CF124656525",
+    "submission_url": "https://codeforces.com/contest/451/submission/124656525",
+    "tags": [
+      "math",
+      "*2000"
+    ],
+    "timestamp": "Aug/02/2021 12:46"
+  },
   "CF77337708": {
     "contest_id": 144,
     "language": "GNU C++17",

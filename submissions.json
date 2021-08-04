@@ -3610,6 +3610,22 @@
     ],
     "timestamp": "Aug/02/2021 12:46"
   },
+  "CF124890043": {
+    "contest_id": 471,
+    "language": "GNU C++17",
+    "path": "codeforces\\471\\D.cpp",
+    "problem_index": "D",
+    "problem_name": "MUH and Cube Walls",
+    "problem_url": "https://codeforces.com/contest/471/problem/D",
+    "submission_id": "CF124890043",
+    "submission_url": "https://codeforces.com/contest/471/submission/124890043",
+    "tags": [
+      "string suffix structures",
+      "strings",
+      "*1800"
+    ],
+    "timestamp": "Aug/04/2021 23:24"
+  },
   "CF124988375": {
     "contest_id": 242,
     "language": "GNU C++17",

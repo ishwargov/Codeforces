@@ -3610,6 +3610,22 @@
     ],
     "timestamp": "Aug/02/2021 12:46"
   },
+  "CF124988375": {
+    "contest_id": 242,
+    "language": "GNU C++17",
+    "path": "codeforces\\242\\E.cpp",
+    "problem_index": "E",
+    "problem_name": "XOR on Segment",
+    "problem_url": "https://codeforces.com/contest/242/problem/E",
+    "submission_id": "CF124988375",
+    "submission_url": "https://codeforces.com/contest/242/submission/124988375",
+    "tags": [
+      "bitmasks",
+      "data structures",
+      "*2000"
+    ],
+    "timestamp": "Aug/05/2021 23:37"
+  },
   "CF125081349": {
     "contest_id": 1549,
     "language": "GNU C++17",

@@ -3767,6 +3767,25 @@
     ],
     "timestamp": "Aug/08/2021 19:04"
   },
+  "CF125450391": {
+    "contest_id": 1557,
+    "language": "GNU C++17",
+    "path": "codeforces\\1557\\C.cpp",
+    "problem_index": "C",
+    "problem_name": "Moamen and XOR",
+    "problem_url": "https://codeforces.com/contest/1557/problem/C",
+    "submission_id": "CF125450391",
+    "submission_url": "https://codeforces.com/contest/1557/submission/125450391",
+    "tags": [
+      "bitmasks",
+      "combinatorics",
+      "dp",
+      "math",
+      "matrices",
+      "*1700"
+    ],
+    "timestamp": "Aug/10/2021 12:18"
+  },
   "CF125538915": {
     "contest_id": 1077,
     "language": "GNU C++17",

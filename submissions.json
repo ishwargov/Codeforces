@@ -3767,6 +3767,23 @@
     ],
     "timestamp": "Aug/08/2021 19:04"
   },
+  "CF126098936": {
+    "contest_id": 1105,
+    "language": "GNU C++17",
+    "path": "codeforces\\1105\\C.cpp",
+    "problem_index": "C",
+    "problem_name": "Ayoub and Lost Array",
+    "problem_url": "https://codeforces.com/contest/1105/problem/C",
+    "submission_id": "CF126098936",
+    "submission_url": "https://codeforces.com/contest/1105/submission/126098936",
+    "tags": [
+      "combinatorics",
+      "dp",
+      "math",
+      "*1500"
+    ],
+    "timestamp": "Aug/16/2021 19:57"
+  },
   "CF126120891": {
     "contest_id": 771,
     "language": "GNU C++17",

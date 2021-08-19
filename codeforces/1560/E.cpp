@@ -13,23 +13,15 @@ void solve(){
     }
     cnt[t[i]-'a']++;
   }
-
   reverse(ord.begin(),ord.end());
   int len = ord.size(),sz=0;
   bool flg = 0;
-
   for(int i=0;i<ord.size();i++){
     sz += cnt[ord[i]-'a']/(i+1);
     if(cnt[ord[i]-'a']%(i+1)!=0) flg=1;
   }
 
-  if(flg){
-    cout<<-1;
-    return;
-  }
-
   for(int i=0;i<26;i++) vis[i] = 0;
-
   string s="",ans = t.substr(0,sz),nxt=ans,nxt2;
   for(int i=0;i<ord.size();i++){
     s = s+nxt;
@@ -42,7 +34,7 @@ void solve(){
     }
     nxt = nxt2;
   }
-  
+  //cout<<s<<" "<<t<<"\n";
   if(s.compare(t)!=0){cout<<-1;return;}
   cout<<ans<<" "<<string(ord.begin(),ord.end());
 }

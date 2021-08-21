@@ -3767,6 +3767,22 @@
     ],
     "timestamp": "Aug/08/2021 19:04"
   },
+  "CF126592218": {
+    "contest_id": 1520,
+    "language": "GNU C++17",
+    "path": "codeforces\\1520\\E.cpp",
+    "problem_index": "E",
+    "problem_name": "Arranging The Sheep",
+    "problem_url": "https://codeforces.com/contest/1520/problem/E",
+    "submission_id": "CF126592218",
+    "submission_url": "https://codeforces.com/contest/1520/submission/126592218",
+    "tags": [
+      "greedy",
+      "math",
+      "*1400"
+    ],
+    "timestamp": "Aug/21/2021 11:58"
+  },
   "CF126661603": {
     "contest_id": 1453,
     "language": "GNU C++17",

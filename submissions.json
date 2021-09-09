@@ -3767,6 +3767,22 @@
     ],
     "timestamp": "Aug/08/2021 19:04"
   },
+  "CF128317570": {
+    "contest_id": 1569,
+    "language": "GNU C++17",
+    "path": "codeforces\\1569\\C.cpp",
+    "problem_index": "C",
+    "problem_name": "Jury Meeting",
+    "problem_url": "https://codeforces.com/contest/1569/problem/C",
+    "submission_id": "CF128317570",
+    "submission_url": "https://codeforces.com/contest/1569/submission/128317570",
+    "tags": [
+      "combinatorics",
+      "math",
+      "*1500"
+    ],
+    "timestamp": "Sep/09/2021 11:51"
+  },
   "CF133758935": {
     "contest_id": 1606,
     "language": "GNU C++17",

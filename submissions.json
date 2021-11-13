@@ -3767,6 +3767,22 @@
     ],
     "timestamp": "Aug/08/2021 19:04"
   },
+  "CF135311542": {
+    "contest_id": 540,
+    "language": "GNU C++17",
+    "path": "codeforces\\540\\D.cpp",
+    "problem_index": "D",
+    "problem_name": "Bad Luck Island",
+    "problem_url": "https://codeforces.com/contest/540/problem/D",
+    "submission_id": "CF135311542",
+    "submission_url": "https://codeforces.com/contest/540/submission/135311542",
+    "tags": [
+      "dp",
+      "probabilities",
+      "*1900"
+    ],
+    "timestamp": "Nov/13/2021 23:14"
+  },
   "CF135504187": {
     "contest_id": 454,
     "language": "GNU C++17",
